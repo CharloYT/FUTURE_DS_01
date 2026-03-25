@@ -51,21 +51,9 @@ This project can be implemented using one or more of the following tools:
 - Regional variations highlight opportunities for targeted marketing
 - Data-driven recommendations include focusing on high-margin products and expanding in underperforming regions
 
-## 📊 Usage
-
-1. Run the analysis notebook (if using Python):
-
-   ```bash
-   jupyter notebook notebooks/analysis.ipynb
-   ```
-
-2. Open the dashboard file in your preferred tool (Power BI, Tableau, or Excel).
-
-3. Review the insights report in the `reports/` directory.
-
 ## 📊 Deliverables
 
-Interactive dashboard (Power BI / Tableau / Excel)
+Interactive dashboard (Power BI / Excel)
 Analytical report with insights and recommendations
 Cleaned dataset ready for further analysis
 
