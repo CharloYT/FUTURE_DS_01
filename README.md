@@ -2,8 +2,6 @@
 
 📊 Sales Data Analysis & Business Insights Dashboard
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-2023-orange)](https://powerbi.microsoft.com/)
 
 ## 🔹 Project Overview
@@ -26,23 +24,6 @@ This project can be implemented using one or more of the following tools:
 
 - **Power BI** – Interactive dashboards & data visualization
 - **Excel** – Data cleaning, pivot tables, and charts
-
-## 🚀 Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/FUTURE_DS_01.git
-   cd FUTURE_DS_01
-   ```
-
-2. If using Python, install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place your sales data in the `data/` directory as `sales_data.csv`.
 
 ## 🔍 Key Analysis Performed
 
@@ -82,17 +63,22 @@ This project can be implemented using one or more of the following tools:
 
 3. Review the insights report in the `reports/` directory.
 
-📊 Deliverables
+## 📊 Deliverables
+
 Interactive dashboard (Power BI / Tableau / Excel)
 Analytical report with insights and recommendations
 Cleaned dataset ready for further analysis
-🎓 Skills Demonstrated
+
+## 🎓 Skills Demonstrated
+
 Business Analytics
 Data Cleaning & Transformation
 KPI Analysis
 Data Visualization
 Insight Generation & Storytelling
-📌 How to Use
+
+## 📌 How to Use
+
 Load the dataset into your preferred tool
 Perform data cleaning and transformation
 Build visualizations based on KPIs
